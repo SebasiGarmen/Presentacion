@@ -1,0 +1,17 @@
+body{
+  color: red;
+  background-color: black;
+}
+.letras_blancas{
+  color: white;
+  font-size: 3em:
+}
+
+.letras_gris{
+  color: grey;
+  font-family: verdana;
+}
+
+p span{
+  color: red;
+}
